@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "title": "Big Buck Bunny",
+    "thumbnail": "https://picsum.photos/id/1011/600/400",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "category": "Nature"
+  },
+
+  {
+    "id": "2",
+    "title": "Ocean Travel",
+    "thumbnail": "https://picsum.photos/id/1015/600/400",
+    "videoUrl": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4",
+    "category": "Travel"
+  },
+
+  {
+    "id": "3",
+    "title": "Mountain Adventure",
+    "thumbnail": "https://picsum.photos/id/1016/600/400",
+    "videoUrl": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_with_audio.mp4",
+    "category": "Adventure"
+  },
+
+  {
+    "id": "4",
+    "title": "City Lights",
+    "thumbnail": "https://picsum.photos/id/1019/600/400",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+    "category": "Urban"
+  },
+
+  {
+    "id": "5",
+    "title": "Forest Walk",
+    "thumbnail": "https://picsum.photos/id/1020/600/400",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-10s.mp4",
+    "category": "Nature"
+  },
+
+  {
+    "id": "6",
+    "title": "Sunset Drive",
+    "thumbnail": "https://picsum.photos/id/1024/600/400",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-15s.mp4",
+    "category": "Travel"
+  },
+
+  {
+    "id": "7",
+    "title": "Wildlife Documentary",
+    "thumbnail": "https://picsum.photos/id/1025/600/400",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-20s.mp4",
+    "category": "Documentary"
+  },
+
+  {
+    "id": "8",
+    "title": "Action Trailer",
+    "thumbnail": "https://picsum.photos/id/1035/600/400",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-30s.mp4",
+    "category": "Action"
+  }
+]
